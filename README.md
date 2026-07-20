@@ -56,4 +56,3 @@ This project presents an AI-powered computer vision system for detecting and cla
 
 AI/ML Engineer | Computer Vision | Deep Learning | Python
 
-⭐ If you found this project useful, consider giving it a Star.
