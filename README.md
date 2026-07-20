@@ -1,12 +1,11 @@
-# 🌾 AI-Powered Pest & Disease Detection using YOLOv8
-
-## 🚀 Overview
+#
+🚀 Overview
 
 This project presents an AI-powered computer vision system for detecting and classifying agricultural pests and plant diseases using the YOLOv8 object detection model. It leverages deep learning techniques to provide accurate, real-time detection from crop images, helping farmers reduce crop losses and improve precision agriculture.
 
 ---
 
-## ✨ Features
+ ✨ Features
 
 - 🌱 Real-time Pest Detection
 - 🦠 Plant Disease Classification
@@ -19,7 +18,7 @@ This project presents an AI-powered computer vision system for detecting and cla
 
 ---
 
-## 🛠️ Technologies Used
+🛠️ Technologies Used
 
 - Python
 - YOLOv8 (Ultralytics)
@@ -31,8 +30,7 @@ This project presents an AI-powered computer vision system for detecting and cla
 - Scikit-learn
 
 ---
-
-## 📂 Repository Contents
+📂 Repository Contents
 
 - 📄 Project_Report.pdf
 - 📘 README.md
@@ -41,7 +39,7 @@ This project presents an AI-powered computer vision system for detecting and cla
 
 ---
 
-## 🎯 Applications
+🎯 Applications
 
 - Precision Agriculture
 - Crop Health Monitoring
